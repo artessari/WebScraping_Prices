@@ -18,7 +18,7 @@ This code was developed during an internship at [**ASTAT**](https://astat.provin
 │   ├── prezzi_province_2022-01_2022-12.xlsx    # Sample prices for all provinces from January to December 2022
 │   ├── prezzi_province_2023-01_2023-12.xlsx    # Sample prices for all provinces from January to December 2023
 │   └── prezzi_province_2024-01_2024-07.xlsx    # Sample prices for all provinces from January to July 2024
-├── requirements.txt                            # Dependencies for the project (used to recreate the environment)
+├── requisites.txt                              # Dependencies for the project (used to recreate the environment)
 └── README.md                                   # Project README file providing an overview and instructions
 
 ```
